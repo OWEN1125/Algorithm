@@ -6,3 +6,5 @@
 - [Cholesky Solve and its usage in Step Regression|乔利斯基分解及其在逐步回归中的应用](http://nbviewer.jupyter.org/github/CUFESAM/Algorithm/blob/master/Cholesky%20Solve.ipynb)
 - [Best Subset Regression|最优子集回归](http://nbviewer.jupyter.org/github/CUFESAM/Algorithm/blob/master/Best%20Subset%20Regression.ipynb)
 - [Least Angle Regression|最小角度回归](http://nbviewer.jupyter.org/github/CUFESAM/Algorithm/blob/master/LARSN0416.ipynb)
+
+copy from the course material of data mining in 2019
